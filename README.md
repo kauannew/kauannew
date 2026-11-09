@@ -1,4 +1,4 @@
-# Olá, eu sou o Kauã 👋
+# Olá, eu sou Kauã
 
 **Analista de Dados Jr.** em Recife, PE. Trabalho com BI e engenharia de dados em uma consultoria, atendendo clientes de diferentes segmentos, e estou cursando Tecnólogo em Ciência de Dados na Estácio.
 
